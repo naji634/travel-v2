@@ -126,6 +126,32 @@
   </header>
 
   <div class="container">
+    <!-- 札幌 -->
+    <section class="city-section">
+      <div class="city-header">
+        <h2>Sapporo</h2>
+      </div>
+      <div class="spot">
+        <div class="spot-card">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Sapporo_Tower_Night_View.jpg" alt="Sapporo TV Tower">
+          <div class="spot-card-content">
+            <h3>Sapporo TV Tower</h3>
+            <p>A symbol of Sapporo, offering great city views.</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.648690870986!2d141.35011861151616!3d43.06208717903602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f6c36a604ffbce1%3A0x957dc835d19a7f9a!2sSapporo%20TV%20Tower!5e0!3m2!1sen!2sjp!4v1700000000000!5m2!1sen!2sjp"></iframe>
+          </div>
+        </div>
+        <div class="spot-card">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sapporo_Jozankei.jpg" alt="Jozankei Onsen">
+          <div class="spot-card-content">
+            <h3>Jozankei Onsen</h3>
+            <p>Famous hot spring town located just outside Sapporo.</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.309254284125!2d141.2213489105098!3d43.04924674355607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f6c36f4d64fa481%3A0x20c2d2957a5a7ee6!2sJozankei%20Onsen!5e0!3m2!1sen!2sjp!4v1700000000000!5m2!1sen!2sjp"></iframe>
+          </div>
+        </div>
+        <!-- 他の札幌観光地 -->
+      </div>
+    </section>
+
     <!-- 小樽 -->
     <section class="city-section">
       <div class="city-header">
@@ -137,9 +163,10 @@
           <div class="spot-card-content">
             <h3>Otaru Canal</h3>
             <p>A scenic canal in Otaru, known for its historical stone warehouses and picturesque views.</p>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.852879735252!2d135.26479971151667!3d43.19603527496085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0d5e731c71d54d%3A0x354a93d6cbd88ab5!2sOtaru%20Canal!5e0!3m2!1sja!2sjp!4v1713000000000!5m2!1sja!2sjp"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.852879735252!2d135.26479971151667!3d43.19603527496085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0d5e731c71d54d%3A0x354a93d6cbd88ab5!2sOtaru%20Canal!5e0!3m2!1sja!2sjp!4v1700000000000!5m2!1sja!2sjp"></iframe>
           </div>
         </div>
+        <!-- 他の小樽観光地 -->
       </div>
     </section>
 
@@ -154,13 +181,14 @@
           <div class="spot-card-content">
             <h3>Hakodate Mountain</h3>
             <p>Famous for its breathtaking night views of the city and the bay.</p>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.2639631355995!2d140.74986501154666!3d41.77323305548739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f6f9d0d3e1547a3%3A0xe4b84a1b0a987e10!2sHakodate%20Mountain!5e0!3m2!1sen!2sjp!4v1713000000000!5m2!1sen!2sjp"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.2639631355995!2d140.74986501154666!3d41.77323305548739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f6f9d0d3e1547a3%3A0xe4b84a1b0a987e10!2sHakodate%20Mountain!5e0!3m2!1sen!2sjp!4v1700000000000!5m2!1sen!2sjp"></iframe>
           </div>
         </div>
+        <!-- 他の函館観光地 -->
       </div>
     </section>
 
-    <!-- 他の都市も追加 -->
+    <!-- 他の都市も同様に追加 -->
   </div>
 
   <footer>
